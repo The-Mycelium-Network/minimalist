@@ -1,0 +1,13 @@
+.cache
+.github
+css
+dist
+pages
+test
+styleguide
+.prettierignore
+.prettierrc
+.stylelintrc.json
+.svgo.yml
+webpack.config.js
+yarn.lock
